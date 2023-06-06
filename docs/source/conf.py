@@ -17,8 +17,11 @@ exclude_patterns = []
 # -- Options for HTML output -------------------------------------------------
 
 html_theme = 'default'
-html_logo = 'images/RuckusBlue_V_Cyan.png'
+html_logo = 'images/RB_square_canvas.png'
 html_favicon = 'images/RB_ico_16.png'
+# html_css_files = [
+#     'css/custom.css'
+# ]
 
 # -- Shared files ------------------------------------------------------------
 
