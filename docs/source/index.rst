@@ -3,7 +3,7 @@ Everything about Ruckus Blue
 
 .. note::
 
-   This is a community driven product page about Ruckus Blue. For official product information and guides, please visit http://blue.ruckusnetworking.com/ .
+   This is a community driven product page about Ruckus Blue. For official product information and guides, please visit http://www.ruckusnetworks.com/ .
 
 
 
